@@ -1,0 +1,3 @@
+nome=input('qual seu nome ?')
+idade=input('digite sua idade')
+print('seja bem vimdo', nome, 'prazer em conheselo', 'sua idade é', idade)

@@ -1,0 +1,4 @@
+km=float(input('digite a distancia e o km'))
+soma=km*0.621371
+print('a distancia em milhas e',
+      soma)

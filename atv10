@@ -1,0 +1,4 @@
+comprimento=float(input('diga o comprimento do retangulo'))
+largura=float(input('diga a largura'))
+soma=(comprimento+largura)
+print(soma)
